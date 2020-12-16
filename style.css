@@ -298,3 +298,6 @@ a{
     line-height: 1rem;
     width: 52.25rem;
 }
+.first a{
+    margin-bottom: 1rem;
+}
