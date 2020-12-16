@@ -4,7 +4,7 @@ body{
     font-family: Nunito;
     font-style: normal;
     font-weight: normal;
-    font-size: 16px;
+    font-size: 1rem;
 }
 a{
     text-decoration: none;
@@ -12,13 +12,13 @@ a{
 
 }
 .header{
-    height: 79px;
+    height: 4.938rem;
     display: flex;
     justify-content: space-between;
-    margin: 0 120px;
+    margin: 0 7.5rem;
 }
 .ebuchaya-linia{
-    border-bottom: 1px solid #E5E5E5;
+    border-bottom: .0625rem solid #E5E5E5;
 }
 .left-header , .right-header{
     display: flex;
@@ -26,105 +26,105 @@ a{
     justify-content: space-evenly;
 }
 .left-header-mastercard{
-    margin-left: 19px;
-    margin-right: 20px;
+    margin-left: 1.1875rem;
+    margin-right: 1.25rem;
 }
 .left-header .htext {
-    margin-left: 20px;
+    margin-left: 1.25rem;
 }
 .right-header .htext{
-    margin-right: 30px;
+    margin-right: 1.875rem;
 }
 
 .get-app{
-    font-size: 18px;
+    font-size: 1.125rem;
     text-align: center;
     color: #222222;
     background: none;
-    border: 1px solid #000000;
-    border-radius: 48px;
-    padding: 12px 32px;
-    margin-left: 10px;
+    border: .0625rem solid #000000;
+    border-radius: 3rem;
+    padding: .75rem 2rem;
+    margin-left: .625rem;
 }
 .get-app:hover{
     cursor: pointer;
 }
 /* Всё что связанно с хэдэром  ↑↑↑↑↑↑*/
 .content-1{
-    margin: 0 120px;
+    margin: 0 7.5rem;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
 }
 .content-left{
-    margin-top: 203px;
+    margin-top: 12.6875rem;
 }
 .ico-play{
-    margin-left: 6px;
+    margin-left: .375rem;
     display: flex;
     align-items: center;
-    margin-bottom: 32px;
+    margin-bottom: 2rem;
 }
 .ico-play-text{
-    margin-left: 8px;
+    margin-left: .5rem;
     color: #000000;
 }
 .start-content-text{
-    font-size: 42px;
+    font-size: 2.625rem;
     color: #222222;
 }
 .content-1 .content-left .content-text{
-    width: 400px;
-    margin-top: 23px;
+    width: 25rem;
+    margin-top: 1.4375rem;
     color: #222222;
 }
 .download-appstore{
-    margin-top: 14px;
-    margin-bottom: 21px;
+    margin-top: .875rem;
+    margin-bottom: 1.3125rem;
 }
 .content-right{
-    margin-top: 40px;
+    margin-top: 2.5rem;
 }
 /* первая контент хуйня */
 .content-2{
-    margin: 0 120px;
+    margin: 0 7.5rem;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap-reverse;
 }
 .content-left-2{
-    margin-top: 110px;
+    margin-top: 6.875rem;
 }
 .content-right-2{
-    margin-top: 410px;
+    margin-top: 25.625rem;
 }
 .content-2 .content-right-2 .start-content-text{
-    margin-bottom: 22px;
+    margin-bottom: 1.375rem;
 }
 .content-2 .content-right-2 .content-text{
-    width: 445px;
-    margin-top: 12px;
+    width: 27.8125rem;
+    margin-top: .75rem;
 }
 /* вторая контент хуйня */
 .content-3{
-    margin: 0 120px;
+    margin: 0 7.5rem;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
 }
 .content-3 .content-left-3 .content-text{
-    width: 448px;
+    width: 28rem;
     color: #222222;
-    margin-bottom: 12px;
+    margin-bottom: .75rem;
 }
 .content-3 .content-left-3 .start-content-text{
-    margin-bottom: 22px;
+    margin-bottom: 1.375rem;
 }
 .content-right-3{
-    margin-top: 104px;
+    margin-top: 6.5rem;
 }
 .content-left-3{
-    margin-top: 326px;
+    margin-top: 20.375rem;
 }
 /* 3 content */
 .cashback{
@@ -132,26 +132,26 @@ a{
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: 205px;
+    margin-top: 12.8125rem;
 }
 .cashback .content-text{
-    width: 584px;
+    width: 36.5rem;
 }
 .show-partners{
-    font-size: 18px;
+    font-size: 1.125rem;
     text-align: center;
     color: #222222;
     background: none;
-    border: 1px solid #000000;
-    border-radius: 48px;
-    padding: 12px 32px;
-    margin-top: 46px;
+    border: .0625rem solid #000000;
+    border-radius: 3rem;
+    padding: .75rem 2rem;
+    margin-top: 2.875rem;
 }
 .show-partners:hover{
     cursor: pointer;
 }
 .partners{
-    margin: 70px 120px 0px 120px;
+    margin: 4.375rem 7.5rem 0rem 7.5rem;
     display: flex;
     flex-direction: column;
 }
@@ -161,101 +161,101 @@ a{
 }
 /* partners */
 .content-4{
-    margin: 0 120px;
+    margin: 0 7.5rem;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
 }
 .content-4 .content-left-4 .content-text{
-    width: 475px;
-    margin-top: 20px;
-    margin-bottom: 30px;
+    width: 29.6875rem;
+    margin-top: 1.25rem;
+    margin-bottom: 1.875rem;
 }
 .pay-buttons{
     display: flex;
 }
 .apple-pay{
-    margin-right: 24px;
+    margin-right: 1.5rem;
 }
 .content-right-4{
-    margin-top: 77px;
+    margin-top: 4.8125rem;
 }
 .content-left-4{
-    margin-top: 276px;
+    margin-top: 17.25rem;
 }
 /* content 4 */
 .content-5{
-    margin: 0 120px;
+    margin: 0 7.5rem;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap-reverse;
 }
 .content-5 .content-right-5 .content-text{
-    width: 478px;
-    margin-bottom: 10px;
+    width: 29.875rem;
+    margin-bottom: .625rem;
 }
 .content-5 .content-right-5 .start-content-text{
-    margin-bottom: 22px;
+    margin-bottom: 1.375rem;
 }
 .content-left-5{
-    margin-top: 130px;
+    margin-top: 8.125rem;
 }
 .content-right-5{
-    margin-top: 275px;
+    margin-top: 17.1875rem;
 }
 /* content-5 */
 .content-6{
-    margin: 0 120px;
+    margin: 0 7.5rem;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
 }
 .content-6 .content-left-6 .start-content-text{
-    width: 70%;
+    width: 29.6875rem;
 }
 .content-6 .content-left-6 .content-text{
-    width: 475px;
+    width: 29.6875rem;
 }
 .content-right-6{
-    margin-top: 116px;
+    margin-top: 7.25rem;
 }
 .content-left-6{
-    margin-top: 293px;
+    margin-top: 18.3125rem;
 }
 /* content-6 */
 .content-7{
-    margin: 0 120px;
+    margin: 0 7.5rem;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap-reverse;
 }
 .content-7 .content-right-7 .start-content-text{
-    width: 350px;
-    margin-bottom: 22px;
+    width: 21.875rem;
+    margin-bottom: 1.375rem;
 }
 .content-7 .content-right-7 .content-text{
-    width: 470px;
-    margin-bottom: 12px;
+    width: 29.375rem;
+    margin-bottom: .75rem;
 }
 .download-icons{
     display: flex;
 }
 .content-left-7{
-    margin-top: 150px;
+    margin-top: 9.375rem;
 }
 .content-right-7{
-    margin-top: 232px;
+    margin-top: 14.5rem;
 }
 .apap{
-    margin-right: 22px;
+    margin-right: 1.375rem;
 }
 /* content 7  */
 .line{
-    border-bottom: 1px solid #E5E5E5;
-    margin: 125px 75px 0 75px;
+    border-bottom: .0625rem solid #E5E5E5;
+    margin: 7.8125rem 4.6875rem 0 4.6875rem;
 }
 .footer{
-    margin: 0 120px;
+    margin: 0 7.5rem;
     display: flex;
     justify-content: space-between;
     color: black;
@@ -266,21 +266,21 @@ a{
     justify-content: space-between;
 }
 .first{
-    margin-top: 67px;
-    margin-bottom: 33px;
+    margin-top: 4.1875rem;
+    margin-bottom: 2.0625rem;
 }
 .zen-zero{
-    margin-left: 120px;
-    margin-top: 55px;
+    margin-left: 7.5rem;
+    margin-top: 3.4375rem;
 }
 .license{
-    margin: 26px 120px 72px 120px;
+    margin: 1.625rem 7.5rem 4.5rem 7.5rem;
     display: flex;
     justify-content: space-between;
 }
 .license-1{
     color:#AAAAAA;
-    font-size: 12px;
-    line-height: 16px;
-    width: 836px;
+    font-size: .75rem;
+    line-height: 1rem;
+    width: 52.25rem;
 }
