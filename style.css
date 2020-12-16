@@ -16,6 +16,7 @@ a{
     display: flex;
     justify-content: space-between;
     margin: 0 7.5rem;
+    flex-wrap: wrap;
 }
 .ebuchaya-linia{
     border-bottom: .0625rem solid #E5E5E5;
@@ -259,11 +260,11 @@ a{
     display: flex;
     justify-content: space-between;
     color: black;
+    flex-wrap: wrap;
 }
-.link{
+.links{
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
 }
 .first{
     margin-top: 4.1875rem;
