@@ -79,13 +79,13 @@
         width: 26.5rem;
     }
     .footer{
-        margin: 0;
+        margin: 0 1.5rem;
     }
     .license{
-        margin: 0;
+        margin: 0 1.5rem;
     }
     .zen-zero{
-        margin-left: 0;
+        margin-left: 1.5rem;
     }
 }
 @media screen and (max-width: 500px){
