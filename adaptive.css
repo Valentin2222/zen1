@@ -47,3 +47,95 @@
         width: 50%;
     }
 }
+@media screen and (max-width: 830px){
+    .smartphone{
+        width: 21.875rem;
+    }
+    .header{
+        margin: 1rem 0;
+    }
+    .content-1{
+        margin: 0;
+    }
+    .content-2{
+        margin: 0;
+    }
+    .content-3{
+        margin: 0;
+    }
+    .content-4{
+        margin: 0;
+    }
+    .content-5{
+        margin: 0;
+    }
+    .content-6{
+        margin: 0;
+    }
+    .content-7{
+        margin: 0;
+    }
+    .cashback .content-text{
+        width: 26.5rem;
+    }
+    .footer{
+        margin: 0;
+    }
+    .license{
+        margin: 0;
+    }
+    .zen-zero{
+        margin-left: 0;
+    }
+}
+@media screen and (max-width: 500px){
+    .content-1 .content-left .content-text{
+        width: 15rem;
+    }
+    .content-2 .content-right-2 .content-text{
+        width: 15rem;
+    }
+    .content-3 .content-left-3 .content-text{
+        width: 15rem;
+    }
+    .content-4 .content-left-4 .content-text{
+        width: 15rem;
+    }
+    .content-5 .content-right-5 .content-text{
+        width: 15rem;
+    }
+    .content-6 .content-left-6 .start-content-text{
+        width: 15rem;
+    }
+    .content-6 .content-left-6 .content-text{
+        width: 15rem;
+    }
+    .content-7 .content-right-7 .start-content-text{
+        width: 15rem;   
+    }
+    .content-7 .content-right-7 .content-text{
+        width: 15rem;
+    }
+    .cashback .content-text{
+        width: 15rem;
+    }
+    .get-app{
+        display: none;
+    }
+    .get-app-button_adaptive{
+        display: flex;
+        justify-content: center;
+        margin-top: 1rem;
+    }
+}
+@media screen and (max-width: 360px){
+    .smartphone{
+        width: 11.25rem;
+    }
+    .partners .partners-row img{
+        width: 5rem;
+    }
+    .download-appstore .apap img{
+        width: 5rem;
+    }
+}

@@ -47,6 +47,19 @@ a{
     padding: .75rem 2rem;
     margin-left: .625rem;
 }
+.get-app-button_adaptive{
+    display: none;
+}
+.get-app-2{
+    font-size: 1.125rem;
+    text-align: center;
+    color: #222222;
+    background: none;
+    border: .0625rem solid #000000;
+    border-radius: 3rem;
+    padding: .75rem 2rem;
+    margin-left: .625rem;
+}
 .get-app:hover{
     cursor: pointer;
 }
